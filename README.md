@@ -2,7 +2,7 @@
 These homeworks ,about different areas of deep learning and machine learning, are given in Applied AI Program at inzva. 
 #### CIFAR-100 -> CNN solution for CIFAR-100 dataset (0.29 accuracy)
 
-#### fraud_detection -> Kaggle Fraud Detection Competition Data Preprocessing and comparision of CATBoost and XGBoost with Bayesian and Random search 
+#### fraud_detection -> Kaggle Fraud Detection Competition Data Preprocessing and comparision of CATBoost and XGBoost with Bayesian and Random search (0.74 accuracy)
 
 #### 
 
